@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+artifacts/
+models/
+data/*.parquet
+*.pt
+*.safetensors
+.env
+build/
+dist/
